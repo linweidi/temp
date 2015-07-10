@@ -1,0 +1,6 @@
+stanford app
+Key:
+c010b18aa05a669ec44b239c07cfaf86
+
+Secret:
+eedbaca42da94989
